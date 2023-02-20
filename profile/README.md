@@ -16,8 +16,10 @@
 # Контакты
 
 ![Wesleezz69](https://i.ibb.co/0r7LdFY/My-project-1.png) - **Wesleezz69**
+[Telegram](https://t.me/wesleezz)
 	
 ![Klore](https://i.ibb.co/8MnpdRR/My-project.png) - **Klore**
+[Telegram](https://t.me/newdlez)
 </details>
 
 <!--- Ссылки Взято с [Pepeland](https://github.com/pepelandnet/.github/blob/main/profile/readme.md) ---!>
