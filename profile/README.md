@@ -15,10 +15,10 @@
 ## Контакты
 
 **Wesleezz69**
-https://i.ibb.co/ZXyTL4q/frog.png
+[![Wesleezz69](https://i.ibb.co/ZXyTL4q/frog.png)
 
 **Klore**
-https://i.ibb.co/0jXC3PF/Klore.png
+[![Klore](https://i.ibb.co/0jXC3PF/Klore.png)
 </details>
 
 <!--- Ссылки Взято с [Pepeland](https://github.com/pepelandnet/.github/blob/main/profile/readme.md) ---!>
