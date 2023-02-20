@@ -16,6 +16,7 @@
 # Контакты
 
 ![Wesleezz69](https://i.ibb.co/0r7LdFY/My-project-1.png) - **Wesleezz69**
+	
 ![Klore](https://i.ibb.co/8MnpdRR/My-project.png) - **Klore**
 </details>
 
