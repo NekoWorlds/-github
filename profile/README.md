@@ -11,9 +11,7 @@
 [![Discord](https://user-images.githubusercontent.com/36849286/161178019-9b1c4d81-f566-40e6-a166-739b7cf6b298.svg)](https://nekocorp.gq/ds)
 
 <details>
-<summary><b>💫💤</b></summary>
-	
-# Контакты
+<summary><b>Контакты💫💤</b></summary>
 
 ![Wesleezz69](https://i.ibb.co/0r7LdFY/My-project-1.png) - **Wesleezz69** <br>
 [Telegram](https://t.me/wesleezz)
