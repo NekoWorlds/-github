@@ -4,4 +4,4 @@
 
 [![Discord](https://user-images.githubusercontent.com/36849286/161178019-9b1c4d81-f566-40e6-a166-739b7cf6b298.svg)](https://nekocorp.gq/ds)
 
-// Взято с [Pepeland](https://github.com/pepelandnet/.github/blob/main/profile/readme.md)
+<!--- Взято с [Pepeland](https://github.com/pepelandnet/.github/blob/main/profile/readme.md) ---!>
