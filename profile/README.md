@@ -12,7 +12,8 @@
 
 <details>
 <summary><b>💫</b></summary>
-## Контакты
+	
+# Контакты
 
 **Wesleezz69**
 [![Wesleezz69](https://i.ibb.co/ZXyTL4q/frog.png)
