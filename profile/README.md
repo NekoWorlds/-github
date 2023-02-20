@@ -15,11 +15,8 @@
 	
 # Контакты
 
-**Wesleezz69**
-![Wesleezz69](https://i.ibb.co/0r7LdFY/My-project-1.png)
-
-**Klore**
-![Klore](https://i.ibb.co/8MnpdRR/My-project.png)
+![Wesleezz69](https://i.ibb.co/0r7LdFY/My-project-1.png) - **Wesleezz69**
+![Klore](https://i.ibb.co/8MnpdRR/My-project.png) - **Klore**
 </details>
 
 <!--- Ссылки Взято с [Pepeland](https://github.com/pepelandnet/.github/blob/main/profile/readme.md) ---!>
