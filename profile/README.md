@@ -15,10 +15,10 @@
 	
 # Контакты
 
-![Wesleezz69](https://i.ibb.co/0r7LdFY/My-project-1.png) - **Wesleezz69**
+![Wesleezz69](https://i.ibb.co/0r7LdFY/My-project-1.png) - **Wesleezz69** <br>
 [Telegram](https://t.me/wesleezz)
 	
-![Klore](https://i.ibb.co/8MnpdRR/My-project.png) - **Klore**
+![Klore](https://i.ibb.co/8MnpdRR/My-project.png) - **Klore** <br>
 [Telegram](https://t.me/newdlez)
 </details>
 
