@@ -13,11 +13,7 @@
 <details>
 <summary><b>Контакты💫💤</b></summary>
 
-![Wesleezz69](https://i.ibb.co/0r7LdFY/My-project-1.png) - **Wesleezz69** <br>
-[Telegram](https://t.me/wesleezz)
-	
-![Klore](https://i.ibb.co/8MnpdRR/My-project.png) - **Klore** <br>
-[Telegram](https://t.me/newdlez)
+<iframe src="https://nekocorp.gq/contacts" width="50%"></iframe>
 </details>
 
 <!--- Ссылки Взято с [Pepeland](https://github.com/pepelandnet/.github/blob/main/profile/readme.md) ---!>
