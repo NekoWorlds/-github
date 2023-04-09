@@ -9,11 +9,4 @@
 [![Telegram](https://user-images.githubusercontent.com/36849286/161178042-5b9c0375-ea76-4a8e-a6fc-4bda5c971e7c.svg)](https://nekocorp.gq/tg)
 
 [![Discord](https://user-images.githubusercontent.com/36849286/161178019-9b1c4d81-f566-40e6-a166-739b7cf6b298.svg)](https://nekocorp.gq/ds)
-
-<details>
-<summary><b>Контакты💫💤</b></summary>
-
-<iframe src="https://nekocorp.gq/contacts" width="50%"></iframe>
-</details>
-
 <!--- Ссылки Взято с [Pepeland](https://github.com/pepelandnet/.github/blob/main/profile/readme.md) ---!>
